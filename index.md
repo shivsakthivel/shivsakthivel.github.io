@@ -1,6 +1,4 @@
-## Shiv Sakthivel
-
-### Projects!!
+# Projects
 
 [Data Visualization](https://shivsakthivel.github.io/Monopoly-Visualizations)
 
