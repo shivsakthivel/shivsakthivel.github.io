@@ -1,7 +1,7 @@
 # Projects
 
-[Data Visualization](https://shivsakthivel.github.io/Monopoly-Visualizations)
+## [Data Visualization Project](https://shivsakthivel.github.io/Monopoly-Visualizations)
 
-[Micronaut](https://shivsakthivel.github.io/Micronaut)
+## [Micronaut](https://shivsakthivel.github.io/Micronaut)
 
-[Capstone](https://shivsakthivel.github.io/DSC180B-Capstone)
+## [Capstone Project](https://shivsakthivel.github.io/DSC180B-Capstone)
