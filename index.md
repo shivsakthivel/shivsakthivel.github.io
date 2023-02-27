@@ -4,4 +4,4 @@
 
 [Micronaut](https://shivsakthivel.github.io/Micronaut)
 
-[Capstone](https://shivsakthivel.github.io/DSC-180B-Project)
+[Capstone](https://shivsakthivel.github.io/DSC180B-Capstone)
